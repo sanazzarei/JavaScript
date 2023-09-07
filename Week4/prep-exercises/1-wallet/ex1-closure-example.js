@@ -1,4 +1,6 @@
-import eurosFormatter from "./euroFormatter.js";
+// import eurosFormatter from "./euroFormatter.js";
+const eurosFormatter = require("./euroFormatter.js");
+
 
 /**
  * This is the closure way of doing things and we have already completed it for you so you don't need to do anything.
